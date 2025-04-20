@@ -16,6 +16,7 @@ add_executable(point_alignment "${LAB_SOURCE_FILES}")
 
 set(LAB_LINK_LIBRARIES
         CUDA::cublas
+        CUDA::cusolver
 )
 target_link_libraries(point_alignment "${LAB_LINK_LIBRARIES}")
 
