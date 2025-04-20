@@ -1,9 +1,7 @@
 CS 179: GPU Computing
 Assignment 4
 
-Due: Friday, May 1, 2024 - 3:00 PM
-
-NOTE: This text file and the assignment code is finalized, as of 4-27-19.
+Due: Wednesday, April 30, 2025
 
 
 Submission:
@@ -12,7 +10,7 @@ Submission:
 Instead of emailing us the solution, put a zip file in your home directory
 on the lab machine, in the format:
 
-lab4_2024_submission.zip
+lab4_2025_submission.zip
 
 
 Your submission should be a single archive file (.zip)
@@ -67,8 +65,6 @@ Once you've filled in all of the TODOs, you can check the correctness of the out
 
 Running the code
 -----------------
-Use 'make clean all' to compile the code.
-
 Usage: ./point_alignment [file1.obj] [file2.obj] [output.obj]
 
 We recommend using the models found in the resources folder to test your code.
